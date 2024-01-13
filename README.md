@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">A Python Developer</h3>
 
+I am a junior Python developer with experience in web application development. I have projects using Django and FastAPI frameworks.
+
 - 📫 How to reach me **iishchenko2023@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
